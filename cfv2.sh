@@ -36,8 +36,8 @@ DOCKER_NODE[0]=
 # 执行安装
 # ====================================================================================================================================================================================
 
-#wget -q https://raw.githubusercontent.com/siemenstutorials/spvgo/master/pax.sh -O pax.sh
-#wget -q https://raw.githubusercontent.com/siemenstutorials/spvgo/master/cftls.sh -O cftls.sh
+wget -q https://raw.githubusercontent.com/huahuazhang118/shgo/master/pax.sh -O pax.sh
+wget -q https://raw.githubusercontent.com/huahuazhang118/shgo/master/cftls.sh -O cftls.sh
 
 . ./cftls.sh
 
