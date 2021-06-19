@@ -21,7 +21,7 @@ function ssr(){
         echo "nodeid = ${nodeid}"
         echo "-----------------------------------------------------"
         echo
-        read -p "Please input URL(Default Url:https://www.xn--9kq078cs77a.com)：" host
+        read -p "Please input URL(Default Url:https://www.jisutizi.xyz)：" host
         [ -z "${host}" ] && host=https://www.jisutizi.xyz
         echo
         echo "-----------------------------------------------------"
