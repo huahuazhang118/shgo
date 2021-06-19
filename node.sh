@@ -163,7 +163,7 @@ function v2richo(){
 }
 
 function v2tls(){
-    wget -q https://raw.githubusercontent.com/huahuazhang118/shgo/master/cftls.sh && bash cftls.sh
+    wget -q https://raw.githubusercontent.com/huahuazhang118/shgo/master/cfv2.sh && bash cfv2.sh
 
 }
 
