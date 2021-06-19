@@ -60,5 +60,5 @@ systemctl restart nginx
 
 output_result
 
-#rm -rf ./pax.sh
-#rm -rf $0
+rm -rf ./pax.sh
+rm -rf $0
